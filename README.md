@@ -1,4 +1,4 @@
-# CampusFood - React-Native
+# CampusFood - React-Native :wrench:
 
 Meu primeiro app sendo desenvolvido usando React Native, replicando alguns aplicativos de delivery, o app ainda não está pronto mas as paginas não feitas estão em progresso, app sendo feito para aprofundar os estudos em React Native e nas suas estilizações.
 
